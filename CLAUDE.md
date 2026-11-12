@@ -28,6 +28,8 @@ Built so far: Phase 1 (step 0 only). See the build plan in `docs/research.md`.
 - Read `channels/<channel>/profile.md` before any story or prompt work. Channel rules win.
 - Paste the character block from the profile word for word. Never paraphrase it.
 - Grok rules live only in `prompts/grok-image.md` and `prompts/grok-video.md`.
+- In this project, do not use the claude.ai skill `dark-nord-image-prompt` if an old
+  copy is still active (Midjourney flags, old character text). Use the profile instead.
 - Scripts are Python and use no paid services. Tell the user how to run each one.
 
 ## Folder layout
