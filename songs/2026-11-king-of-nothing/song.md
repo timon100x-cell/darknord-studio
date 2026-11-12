@@ -130,7 +130,7 @@ With nothing in his head
 ## Pipeline status
 
 - [x] 0 new-video: `song.md`
-- [ ] 1 song-read: `analysis.md`, `timing.json`
+- [x] 1 song-read: `analysis.md`, `timing.json`
 - [ ] 2 concepts: `treatment.md` (needs approval)
 - [ ] 3 beats: `beats.md` (needs approval)
 - [ ] 4 shots: `shots.json` (needs approval)

@@ -17,7 +17,7 @@ explain choices in plain language and ask before installing anything.
 | 6    | `/check`     | `review.md`                 | a failed rule goes back to step 4 |
 | 7    | `/board`     | `storyboard.html`           |          |
 
-Built so far: Phase 1 (step 0 only). See the build plan in `docs/research.md`.
+Built so far: Phase 1 (step 0) and step 1 with `scripts/timing.py`. See the build plan in `docs/research.md`.
 
 ## Rules
 
@@ -41,13 +41,14 @@ docs/dark-nord-*.md              original claude.ai skills (reference only)
 docs/song-projects.md            Dark Nord song list
 .claude/skills/
   new-video/                     SKILL.md, song-template.md
+  song-read/                     SKILL.md, analysis-template.md
   concepts/                      story-craft.md, genre-playbooks.md
   beats/                         retention.md
   shots/                         shot-grammar.md
   prompts/                       grok-image.md, grok-video.md
 .claude/agents/                  critic.md (Phase 4)
 channels/dark-nord/profile.md    character, look, story rules, lessons
-scripts/                         timing.py, validate.py, board.py (Phases 3-4)
+scripts/                         timing.py (built), validate.py, board.py (Phases 3-4)
 songs/<YYYY-MM>-<slug>/          one folder per song, one file per step
 ```
 

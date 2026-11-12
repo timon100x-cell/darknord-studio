@@ -1,0 +1,162 @@
+{
+  "song": "King of Nothing",
+  "bpm": 145.0,
+  "time_signature": "4/4",
+  "beats_per_bar": 4,
+  "bar_seconds": 1.6552,
+  "length": null,
+  "length_seconds": null,
+  "total_bars": null,
+  "complete": false,
+  "missing": [
+    "total length",
+    "start times for: Intro, Hook, Verse 1, Pre-Chorus, Stop, Chorus, Harmonica Hook, Verse 2, Bridge, Silence, Whispered, Drop, Final Chorus, Outro, Harmonica, End"
+  ],
+  "warnings": [],
+  "sections": [
+    {
+      "index": 1,
+      "name": "Intro",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 2,
+      "name": "Hook",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 3,
+      "name": "Verse 1",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 4,
+      "name": "Pre-Chorus",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 5,
+      "name": "Stop",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 6,
+      "name": "Chorus",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 7,
+      "name": "Harmonica Hook",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 8,
+      "name": "Verse 2",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 9,
+      "name": "Bridge",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 10,
+      "name": "Silence",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 11,
+      "name": "Whispered",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 12,
+      "name": "Drop",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 13,
+      "name": "Final Chorus",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 14,
+      "name": "Outro",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 15,
+      "name": "Harmonica",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    },
+    {
+      "index": 16,
+      "name": "End",
+      "start": null,
+      "start_seconds": null,
+      "end_seconds": null,
+      "start_bar": null,
+      "bars": null
+    }
+  ]
+}
